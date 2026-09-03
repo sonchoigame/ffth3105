@@ -12,13 +12,13 @@
 "version": "1.0.0", 
 "summary": "AIM CỔ ★", 
 "description": "HEADSHOT CỔ 💨\n 🛡️ AntiBan \n ⚠️ LƯU Ý: Nên sử dụng kèm DNS", 
-"category": "AIM ", 
+"category": "AIM", 
 "tags": [ 
 "AIM"
 ], 
 "icon": "img/images.jpg", 
 "screenshots": [ 
-""
+"img/images.jpg"
 
 ], 
 "download": "PATCH AIM/Aim NECK.3105",
@@ -64,11 +64,11 @@
 "description": "ĐỊNH VỊ Súng TRẮNG 💨\n 🛡️ AntiBan \n ⚠️ LƯU Ý: Nên sử dụng kèm DNS", 
 "category": "ĐỊNH VỊ ", 
 "tags": [ 
-"ĐỊNH VỊ"
+"DINHVI"
 ], 
 "icon": "img/images.jpg", 
 "screenshots": [ 
-""
+"img/images.jpg"
 
 ], 
 "download": "PATCH FFTH ĐỊNH VỊ/định vị trắng/Định Vị Súng.3105",
@@ -108,13 +108,13 @@
 "version": "1.0.0", 
 "summary": "ĐỊNH VỊ TRẮNG ★", 
 "description": "ĐỊNH VỊ TRẮNG 💨\n 🛡️ AntiBan \n ⚠️ LƯU Ý: Nên sử dụng kèm DNS", 
-"category": "ĐỊNH VỊ ", 
+"category": "DINHVI", 
 "tags": [ 
-"ĐỊNH VỊ"
+"DINHVI"
 ], 
 "icon": "img/images.jpg", 
 "screenshots": [ 
-""
+"img/images.jpg"
 
 ], 
 "download": "PATCH FFTH ĐỊNH VỊ/định vị trắng/Định Vị Nhân Vật.3105",
