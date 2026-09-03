@@ -1,0 +1,149 @@
+{ 
+"schemaVersion": 1, 
+"identifier": "nsmod.ffth.os", 
+"name": "♰ NSMOD FFTH", 
+"description": " : ̗̀➛ FULL TOÀN BỘ AIM + ĐỊNH VỊ + MODSKIN FFTH \n : ̗̀➛ KÊNH TELGRAM: @sonchoigame123  ",
+"icon": "avt/avt.jpg", 
+"packages": [ 
+{ 
+"identifier": "AIM-FFTH", 
+"name": "AIM NECK  ", 
+"author": "NSMOD", 
+"version": "1.0.0", 
+"summary": "AIM CỔ ★", 
+"description": "HEADSHOT CỔ 💨\n 🛡️ AntiBan \n ⚠️ LƯU Ý: Nên sử dụng kèm DNS", 
+"category": "AIM ", 
+"tags": [ 
+"AIM"
+], 
+"icon": "img/images.jpg", 
+"screenshots": [ 
+""
+
+], 
+"download": "PATCH AIM/Aim NECK.3105",
+"sha256": "F05A7A331E9806D093F3E8027E3CE8E2B8B23046B2840B14D8C15FC2ECB7DC7B", 
+"password": "thichbulon",
+"size": 47720, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+
+
+
+
+
+{ 
+"identifier": "DV-FFTH", 
+"name": "Định SÚNG TRẮNG  ", 
+"author": "NSMOD", 
+"version": "1.0.0", 
+"summary": "nên chơi kèm định vị nv trắng ★", 
+"description": "ĐỊNH VỊ Súng TRẮNG 💨\n 🛡️ AntiBan \n ⚠️ LƯU Ý: Nên sử dụng kèm DNS", 
+"category": "ĐỊNH VỊ ", 
+"tags": [ 
+"ĐỊNH VỊ"
+], 
+"icon": "img/images.jpg", 
+"screenshots": [ 
+""
+
+], 
+"download": "PATCH FFTH ĐỊNH VỊ/định vị trắng/Định Vị Súng.3105",
+"sha256": "FB7E395BB04ADD2F8424E8B2648848D39A2D417CE1C61ECFCA729D9C6C77114E", 
+"password": "jerrymod",
+"size": 1445240, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+
+{ 
+"identifier": "DV-FFTH", 
+"name": " Định Nhân Vật TRẮNG  ", 
+"author": "NSMOD", 
+"version": "1.0.0", 
+"summary": "ĐỊNH VỊ TRẮNG ★", 
+"description": "ĐỊNH VỊ TRẮNG 💨\n 🛡️ AntiBan \n ⚠️ LƯU Ý: Nên sử dụng kèm DNS", 
+"category": "ĐỊNH VỊ ", 
+"tags": [ 
+"ĐỊNH VỊ"
+], 
+"icon": "img/images.jpg", 
+"screenshots": [ 
+""
+
+], 
+"download": "PATCH FFTH ĐỊNH VỊ/định vị trắng/Định Vị Nhân Vật.3105",
+"sha256": "679DAC48AAE3475D26A9401E70C583F59FABB89C39F1E4ECAFB07C37D44A8A33", 
+"password": "jerrymod",
+"size": 384319, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+}
+]
+}
+
