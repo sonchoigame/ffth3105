@@ -1,0 +1,397 @@
+{ 
+"schemaVersion": 1, 
+"identifier": "nsmod.ffth.os", 
+"name": "♰ NSMOD FFTH", 
+"description": " : ̗̀➛ FULL TOÀN BỘ AIM + ĐỊNH VỊ + MODSKIN FFTH \n : ̗̀➛ KÊNH TELGRAM: @sonchoigame123  ",
+"icon": "avt/avt.jpg", 
+"packages": [ 
+{ 
+"identifier": "AIM-FFTH", 
+"name": "AIM NECK  ", 
+"author": "NSMOD", 
+"version": "1.0.0", 
+"summary": "AIM CỔ ★", 
+"description": "HEADSHOT CỔ 💨\n 🛡️ AntiBan \n ⚠️ LƯU Ý: Nên sử dụng kèm DNS", 
+"category": "AIM ALL", 
+"tags": [ 
+"AIM ALL"
+], 
+"icon": "img/images.jpg", 
+"screenshots": [ 
+"img/images.jpg"
+
+], 
+"download": "PATCH AIM/Aim NECK.3105",
+"sha256": "F05A7A331E9806D093F3E8027E3CE8E2B8B23046B2840B14D8C15FC2ECB7DC7B", 
+"password": "thichbulon",
+"size": 47720, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+
+{ 
+"identifier": "AIM-body-FFTH", 
+"name": "AIM BODY  ", 
+"author": "NSMOD", 
+"version": "1.0.0", 
+"summary": "AIM BODY ★", 
+"description": "HEADSHOT BODY 💨\n 🛡️ AntiBan \n ⚠️ LƯU Ý: Nên sử dụng kèm DNS", 
+"category": "AIM ALL", 
+"tags": [ 
+"AIM ALL"
+], 
+"icon": "img/images.jpg", 
+"screenshots": [ 
+"img/images.jpg"
+
+], 
+"download": "no pass/AIM-BODY FFTH K-OB54 -.3105",
+"sha256": "A6B68CA50AB4A1B4FA959AC5355050B41A08A1A9FD87C26898313BA9D6A88608", 
+"size": 63981, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+
+{ 
+"identifier": "AIM-DRAG-FFTH", 
+"name": "AIM DRAG  ", 
+"author": "NSMOD", 
+"version": "1.0.0", 
+"summary": "AIM DRAG ★", 
+"description": "HEADSHOT DRAG 💨\n 🛡️ AntiBan \n ⚠️ LƯU Ý: Nên sử dụng kèm DNS", 
+"category": "AIM ALL", 
+"tags": [ 
+"AIM ALL"
+], 
+"icon": "img/images.jpg", 
+"screenshots": [ 
+"img/images.jpg"
+
+], 
+"download": "no pass/AIM-DR4G FFTH K-OB54 -.3105",
+"sha256": "10A1502E19FC63FFD5BAB5A40EE86C95F49D82B14147985AA2635FE9E8773ED7", 
+"size": 63970, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+
+
+
+
+
+{ 
+"identifier": "DV-FFTH-chamv2", 
+"name": "ĐỊNH VỊ SÚNG XANH SÁNG V2  ", 
+"author": "iosupdate", 
+"version": "1.0.0", 
+"summary": "ĐV SÚNG ★", 
+"description": "Định VỊ Súng Xanh Sáng V2 💨\n 🛡️ AntiBan \n ⚠️ LƯU Ý: Nên sử dụng kèm DNS", 
+"category": "Định Vị Súng", 
+"tags": [ 
+"Định Vị Súng"
+], 
+"icon": "img/images.jpg", 
+"screenshots": [ 
+"img/cham(ios).jpg"
+
+], 
+"download": "chams/cham sung/Chamss ffth(iosupdate).3105",
+"sha256": "8BF670851C3DE5FD1A0D5653F43A61E76728F22D534714A872BE17EFF85DC433", 
+"password": "iosupdate",
+"size": 1444650, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+{ 
+"identifier": "DV-FFTH-sangdo", 
+"name": "ĐỊNH VỊ SÚNG SÁNG ĐỎ  ", 
+"author": "chicongdz", 
+"version": "1.0.0", 
+"summary": "ĐV SÚNG ★", 
+"description": "Định VỊ Súng Sáng Đỏ 💨\n 🛡️ AntiBan \n ⚠️ LƯU Ý: Nên sử dụng kèm DNS", 
+"category": "Định Vị Súng", 
+"tags": [ 
+"Định Vị Súng"
+], 
+"icon": "", 
+"screenshots": [ 
+"img/dvi súng sáng đỏ.jpg"
+
+], 
+"download": "chams/cham sung/đvi súng( SÁNG ĐỎ, chicongdz).3105",
+"sha256": "7ADFD6EEF229013CDF6AC00DA439268CA90937E2B1EF3290D7B0DD233AA15D8D", 
+"password": "chicongdz",
+"size": 13179952, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+
+
+
+
+
+
+
+{ 
+"identifier": "DV-FFTH-NVSUNGBLUE", 
+"name": "ĐỊNH VỊ S+NV BLUE  ", 
+"author": "NSMOD", 
+"version": "1.0.0", 
+"summary": "ĐV SÚNG VÀ NV ★", 
+"description": "ĐỊNH VỊ XANH NV + SÚNG 💨\n 🛡️ AntiBan \n ⚠️ LƯU Ý: Nên sử dụng kèm DNS", 
+"category": "Định Vị S+NV VIP", 
+"tags": [ 
+"Định Vị S+NV VIP"
+], 
+"icon": "img/images.jpg", 
+"screenshots": [ 
+"img/NV+S XANH NOPASS.jpg"
+
+], 
+"download": "no pass/Định Vị Nhân Vật + Súng Blue.3105",
+"sha256": "5DF05F74702FE008C1C1E8D9B3D725CA27E259BDDE8F276FA428C6F912672BF2", 
+"size": 13563031, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+
+
+
+{ 
+"identifier": "DV-FFTH-xanhla", 
+"name": " Định Vị NV Xanh Lá  ", 
+"author": "YaBaor", 
+"version": "1.0.0", 
+"summary": "ĐỊNH VỊ NV XANH LÁ ★", 
+"description": "ĐỊNH VỊ XANH LÁ 💨\n 🛡️ AntiBan \n ⚠️ LƯU Ý: Nên sử dụng kèm DNS", 
+"category": "Định Vị Nhân Vật", 
+"tags": [ 
+"Định Vị Nhân Vật"
+], 
+"icon": "img/images.jpg", 
+"screenshots": [ 
+"img/images.jpg"
+
+], 
+"download": "PATCH FFTH ĐỊNH VỊ/định vị xanh/CHAM XANH NHÂN VẬT.3105",
+"sha256": "A186D8B7E78ABA0AC59DA696E915414741BD6D578F70EECA75E96882D36C312B", 
+"password": "YaBaor",
+"size": 384148, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+{ 
+"identifier": "DV-FFTH-ma", 
+"name": " Định Vị NV Ma  ", 
+"author": "wmcry", 
+"version": "1.0.0", 
+"summary": "ĐỊNH VỊ NV MA XANH ★", 
+"description": "ĐỊNH VỊ MA XANH 💨\n 🛡️ AntiBan \n ⚠️ LƯU Ý: Nên sử dụng kèm DNS", 
+"category": "Định Vị Nhân Vật", 
+"tags": [ 
+"Định Vị Nhân Vật"
+], 
+"icon": "img/images.jpg", 
+"screenshots": [ 
+"img/DVI MA.jpg"
+
+], 
+"download": "PATCH FFTH ĐỊNH VỊ/định vị ma/Định Vị Ma -FFTH- wmcry.3105",
+"sha256": "888C6BF2609E374AEB282B04B792CC0BB8E8D012563B0388B17475DE1CE3B4A9", 
+"password": "wmcry",
+"size": 384279, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+}
+
