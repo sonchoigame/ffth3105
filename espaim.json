@@ -7,161 +7,24 @@
 "packages": [ 
 { 
 "identifier": "FF-ESP", 
-"name": " FFTH ESP + AIM THƯỜNG ", 
-"author": "YB", 
+"name": " FREE FIRE MENU VIP ", 
+"author": "NSMOD", 
 "version": "1.0.0", 
 "summary": "ESP + AIM ★", 
-"description": "☦️ VÔ KÊNH TELE NHẬN THÔNG BÁO MỚI NHẤT : t.me/sonchoigame123 \n 🛡️ AntiBan \n 🌐 WEB: nsmod.github.io ", 
-"category": "FFTH", 
+"description": "☦️ VÔ KÊNH TELE NHẬN THÔNG BÁO MỚI NHẤT : t.me/sonchoigame23 \n 🛡️ AntiBan \n 🌐 WEB: nsmod.github.io ", 
+"category": "KÊNH TELE :t.me/sonchoigame23", 
 "tags": [ 
-"FFTH"
+"KÊNH TELE :t.me/sonchoigame23"
 ], 
 "icon": "avt/images.jpg", 
 "screenshots": [ 
 "avt/avt.jpg"
 
 ], 
-"download": "patch/ESP FREE FIRE-2.3105",
-"sha256": "014BADC68788D8264907978CB48C8AB9A191635A7F1210C21B647D56D6FB4033", 
-"password": "Tele@YaPaor",
-"size": 3492605, 
-"supportedOS": [ 
-{ 
-"minimum": "17.0", 
-"maximum": "18.7.1" 
-}, 
-{ 
-"minimum": "26.0", 
-"maximum": "26.6.1" 
-}, 
-{ 
-"minimum": "27.0", 
-"maximum": "27.0", 
-"builds": [ 
-"24A5355q", 
-"24A5370h", 
-"24A5380h", 
-"24A5390f" 
-] 
-} 
-], 
-"featured": false, 
-"isPrivate": false 
-},
-
-
-{ 
-"identifier": "FF-ESPth", 
-"name": " FFTH ESP + KHÔNG RUNG TÂM ", 
-"author": "NS", 
-"version": "1.0.0", 
-"summary": "ESP + KHÔNG RUNG TÂM ★", 
-"description": "☦️ VÔ KÊNH TELE NHẬN THÔNG BÁO MỚI NHẤT : t.me/sonchoigame123 \n 🛡️ AntiBan \n 🌐 WEB: nsmod.github.io ", 
-"category": "FFTH", 
-"tags": [ 
-"FFTH"
-], 
-"icon": "avt/images.jpg", 
-"screenshots": [ 
-"avt/avt.jpg"
-
-], 
-"download": "patch/ESP - Không Rung Tâm FFT.3105",
-"sha256": "6AD3F96A0CB30E643B992570FC28275481129A625C80928DCD105356C9FD8CD7", 
-"password": "@dovietphuog",
-"size": 9265, 
-"supportedOS": [ 
-{ 
-"minimum": "17.0", 
-"maximum": "18.7.1" 
-}, 
-{ 
-"minimum": "26.0", 
-"maximum": "26.6.1" 
-}, 
-{ 
-"minimum": "27.0", 
-"maximum": "27.0", 
-"builds": [ 
-"24A5355q", 
-"24A5370h", 
-"24A5380h", 
-"24A5390f" 
-] 
-} 
-], 
-"featured": false, 
-"isPrivate": false 
-},
-
-
-
-
-{ 
-"identifier": "FF-ESPFFM", 
-"name": " FFTH ESP + AIM MAX ", 
-"author": "YB", 
-"version": "1.0.0", 
-"summary": "ESP + AIM ★", 
-"description": "☦️ VÔ KÊNH TELE NHẬN THÔNG BÁO MỚI NHẤT : t.me/sonchoigame123 \n 🛡️ AntiBan \n 🌐 WEB: nsmod.github.io ", 
-"category": "FFM", 
-"tags": [ 
-"FFM"
-], 
-"icon": "avt/hinh-anh-anime-cute-de-thuong-1.jpg", 
-"screenshots": [ 
-"avt/avt.jpg"
-
-], 
-"download": "patch/ESP FREE FIRE MAX.3105",
-"sha256": "E1E0E9D5AA4B1DE7A41D1B13423EFD47C7953BAAEC708004034879EA52F9D50B", 
-"password": "Tele@YaPaor",
-"size": 3555043, 
-"supportedOS": [ 
-{ 
-"minimum": "17.0", 
-"maximum": "18.7.1" 
-}, 
-{ 
-"minimum": "26.0", 
-"maximum": "26.6.1" 
-}, 
-{ 
-"minimum": "27.0", 
-"maximum": "27.0", 
-"builds": [ 
-"24A5355q", 
-"24A5370h", 
-"24A5380h", 
-"24A5390f" 
-] 
-} 
-], 
-"featured": false, 
-"isPrivate": false 
-},
-
-
-{ 
-"identifier": "FF-ESPmmm", 
-"name": " FFTH ESP + 0 RUNG TÂM FFM ", 
-"author": "NS", 
-"version": "1.0.0", 
-"summary": "ESP + KHÔNG RUNG TÂM ★", 
-"description": "☦️ VÔ KÊNH TELE NHẬN THÔNG BÁO MỚI NHẤT : t.me/sonchoigame123 \n 🛡️ AntiBan \n 🌐 WEB: nsmod.github.io ", 
-"category": "FFM", 
-"tags": [ 
-"FFM"
-], 
-"icon": "avt/hinh-anh-anime-cute-de-thuong-1.jpg", 
-"screenshots": [ 
-"avt/avt.jpg"
-
-], 
-"download": "patch/ESP - Không Rung Tâm FFM.3105",
-"sha256": "5BD1546FF6AA99C71BFB4CBF18F662BE755F3939B1C323F269B91008E1FD9CC2", 
-"password": "@dovietphuog",
-"size": 9266, 
+"download": "patch/FF.3105",
+"sha256": "6294D9B86B41FC62E16BE3D63B28C61A6E8CBF3B508D1F96A5BFBD7D1D074826", 
+"password": "nsmod",
+"size": 40437, 
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
@@ -185,7 +48,5 @@
 "featured": false, 
 "isPrivate": false 
 }
-
-
 ]
 }
