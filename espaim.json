@@ -47,6 +47,50 @@
 ], 
 "featured": false, 
 "isPrivate": false 
+},
+
+{ 
+"identifier": "FF-ESPMAX", 
+"name": " FREE FIRE MAX MENU VIP ", 
+"author": "NSMOD", 
+"version": "1.0.0", 
+"summary": "ESP + AIM ★", 
+"description": "☦️ VÔ KÊNH TELE NHẬN THÔNG BÁO MỚI NHẤT : t.me/sonchoigame23 \n 🛡️ AntiBan \n 🌐 WEB: nsmod.github.io ", 
+"category": "KÊNH TELE :t.me/sonchoigame23", 
+"tags": [ 
+"KÊNH TELE :t.me/sonchoigame23"
+], 
+"icon": "avt/images.jpg", 
+"screenshots": [ 
+"avt/avt.jpg"
+
+], 
+"download": "patch/Menu FFM.3105",
+"sha256": "7B326C26497F9E8CBF80C2758245340BA146B0F1088A0A4553A013B46FBAF277", 
+"password": "@dovietphuog",
+"size": 40398, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
 }
 ]
 }
